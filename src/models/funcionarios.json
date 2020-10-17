@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nome": "Fulano",
+        "anoContrato": 2018,
+        "cargo": "Caixa",
+        "idade": 29 
+    },
+    {
+        "id": 2,
+        "nome": "Cicrano",
+        "anoContrato": 2015,
+        "cargo": "Gerente",
+        "idade": 35    
+    },
+    {
+        "id": 3,
+        "nome": "Beltrano",
+        "anoContrato": 2019,
+        "cargo": "Estoquista",
+        "idade": 23 
+    }
+]

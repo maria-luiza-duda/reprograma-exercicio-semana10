@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "titulo": "E não sobrou nenhum",
+        "autor": "Agatha Christie",
+        "genero": "Romance policial",
+        "editora": "Globo",
+        "anoPublicacao": 1939    },
+    {
+        "id": 2,
+        "titulo": "20000 léguas submarinas",
+        "autor": "Júlio Verne",
+        "genero": "Ação e aventura",
+        "editora": "Melhoramentos",
+        "anoPublicacao": 1870    },
+    {
+        "id": 3,
+        "titulo": "Os crimes ABC",
+        "autor": "Agatha Christie",
+        "genero": "Romance policial",
+        "editora": "Globo",
+        "anoPublicacao": 1936
+    },
+    {
+        "id": 4,
+        "titulo": "A origem das Espécies",
+        "autor": "Charles Darwin",
+        "genero": "Ciências naturais",
+        "editora": "Globo",
+        "anoPublicacao": 1859
+    },
+    {
+        "id": 5,
+        "titulo": "Sapiens - Uma breve história da humanidade",
+        "autor": "Yuval Noah Harari",
+        "genero": "Ciências naturais",
+        "editora": "Harper",
+        "anoPublicacao": 2011
+    }
+]
